@@ -115,9 +115,9 @@ After the modeling has been completed, actionable recommendations will be made t
 * [Cleaned Permits](./data/csv/permitted_wells_cleaned.csv)
 
 **spatial**
-* [Geology](./data/polygon/.GeoJSON): 
-* [Well Sample Points](./data/pooint/.GeoJSON): 
-* [](./data/.csv): 
+* [Geology](./data/gis/polygon/geology.GeoJSON): 
+* [Well Sample Points](./data/gis/point/ar_samples_w_geol.GeoJSON): 
+* [Well Permit Points](./data/gis/point/all_wells.GeoJSON):
 
 **model output**
 * [](./data//.): 

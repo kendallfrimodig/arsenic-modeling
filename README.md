@@ -41,8 +41,15 @@ Specifically for North Carolina, there have been several studies regarding eleva
 
 The purpose of this study is to enhance a previous modeling project by Owusu et al. []() The sample size for elevated arsenic was relatively low due to the more recent introduction of mandatory testing upon well construction. The project  replicates the original model with a 60% increase in sample size, and explores additional factors that have been identified to affect arsenic concentrations.
 
+[Gaston Water Risk Map](https://gastonwatermap.org/map/?_gl=1*pkmxvu*_ga*MTEzNjAxMzYwOS4xNjc4OTAxMTE3*_ga_JYNZVNN3RN*MTY4MTM1ODgxNy4zLjAuMTY4MTM1ODgxNy4wLjAuMA..*_ga_2LVQGFZ9WX*MTY4MTM1ODgxNy4xMC4wLjE2ODEzNTg4MTcuMC4wLjA.&_ga=2.178785252.1766973899.1681348676-1136013609.1678901117)
 
 
+[EnviroScan Map](https://enviroscan-map.renci.org/)
+
+
+[Arsenic Numbers Behind Map](https://sph.unc.edu/wp-content/uploads/sites/112/2022/12/Gaston_WWC2022.pdf)
+
+[NC Well Database](https://www.sciencedirect.com/science/article/abs/pii/S0048969721065578?via%3Dihub)
 
 After the modeling has been completed, actionable recommendations will be made to the Gaston County Health Department. These recommendations will be based on the model's predictions, and will be used to inform future well construction and maintenance.
 
